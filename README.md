@@ -19,6 +19,6 @@ Fully supported languages:
 
 # Screenshots!
 
-![screenshot](http://imgur.com/25ZLVVO "screenshot")
+![screenshot](https://i.imgur.com/25ZLVVO.png "screenshot")
 
 For more screenshots, see here: https://imgur.com/a/ky3nw
