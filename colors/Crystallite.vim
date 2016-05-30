@@ -116,6 +116,7 @@ hi javaclassdecl ctermfg=39 guifg=#00afff cterm=BOLD
 hi javaStorageClass ctermfg=34 guifg=#00af00 cterm=BOLD
 hi javaBoolean ctermfg=118 guifg=#87ff00 cterm=BOLD
 hi javaAnnotation ctermfg=11 guifg=#ffff00 cterm=NONE
+hi javaElementType ctermfg=39 guifg=#00afff cterm=BOLD
 "hi javaParenT ctermfg=11 cterm=BOLD
 hi javatypedef ctermfg=39 guifg=#00afff cterm=NONE
 hi javaConstant ctermfg=94 guifg=#875f00 cterm=BOLD
