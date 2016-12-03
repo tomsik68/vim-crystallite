@@ -1,7 +1,7 @@
 #!/bin/bash
 
-VIMRCPATH='~/.vimrc'
-if [ -f '~/.vim/vimrc' ]; then VIMRCPATH='~/.vim/vimrc'; fi
+VIMRCPATH=~/.vimrc
+if [ -f ~/.vim/vimrc ]; then VIMRCPATH=~/.vim/vimrc; fi
 echo found vimrc in $VIMRCPATH
 mkdir -p ~/.vim/colors/
 cp colors/Crystallite.vim ~/.vim/colors/
