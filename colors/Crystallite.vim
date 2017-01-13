@@ -176,22 +176,24 @@ hi javaScriptBraces ctermfg=166 guifg=#d75f00 cterm=NONE
 hi javaScriptStringD ctermfg=118 guifg=#87ff00 ctermbg=232 cterm=NONE
 hi javaScriptStorageClass ctermfg=34 guifg=#00af00 cterm=BOLD
 " PHP
-hi phpDefine ctermfg=200 guifg=#ff00d7 cterm=BOLD
+hi phpDefine ctermfg=34 guifg=#00af00 cterm=BOLD
+hi phpStructure ctermfg=129 guifg=#af00ff cterm=BOLD
 hi phpStringSingle ctermfg=11 guifg=#ffff00 ctermbg=234
 hi phpStringDouble ctermfg=46 guifg=#00ff00 ctermbg=234
 hi phpOperator ctermfg=15 guifg=#ffffff cterm=BOLD
 hi phpvarselector ctermfg=15 guifg=#ffffff cterm=NONE
 hi phpidentifier ctermfg=14 guifg=#00ffff cterm=NONE
-hi phpStatement ctermfg=93 guifg=#8700ff cterm=BOLD
 hi phpRepeat ctermfg=200 guifg=#ff00d7 cterm=BOLD
+hi phpStatement ctermfg=200 guifg=#ff00d7 cterm=BOLD
 hi phpFunctions ctermfg=208 guifg=#ff8700 cterm=BOLD
 hi phpMethodsVar ctermfg=208 guifg=#ff8700 cterm=BOLD
 hi phpFunction ctermfg=208 guifg=#ff8700 cterm=BOLD
 hi phpKeyword ctermfg=197 guifg=#ff005f cterm=BOLD
-hi phpType ctermfg=63 guifg=#5f5fff cterm=BOLD
+hi phpType ctermfg=226 guifg=#ffff00 cterm=BOLD
 hi phpBoolean ctermfg=63 guifg=#5f5fff cterm=BOLD
 hi phpClass ctermfg=39 guifg=#00afff cterm=BOLD
 hi phpParent ctermfg=249 guifg=#b2b2b2 cterm=NONE
+hi phpStorageClass ctermfg=27 guifg=#005fff cterm=BOLD
 " MySQL
 hi mySqlKeyword ctermfg=200 guifg=#ff00d7 cterm=BOLD
 hi mySqlOperator ctermfg=27 guifg=#005fff cterm=BOLD
