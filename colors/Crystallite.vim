@@ -9,7 +9,7 @@ if version > 580
 endif
 
 set t_Co=256
-let g:colors_name = "Crystallite3"
+let g:colors_name = "Crystallite"
 
 hi IncSearch guifg=#ffffff guibg=#1c303b guisp=#1c303b gui=bold,underline ctermfg=15 ctermbg=237 cterm=bold,underline
 hi WildMenu guifg=#000000 guibg=#607b8b guisp=#607b8b gui=NONE ctermfg=NONE ctermbg=66 cterm=NONE
