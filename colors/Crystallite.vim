@@ -228,3 +228,11 @@ hi rustString ctermfg=46 guifg=#00ff00 cterm=NONE
 hi rustSigil ctermfg=226 guifg=#ffff00 cterm=NONE
 hi rustIdentifier ctermfg=27 guifg=#005fff cterm=NONE
 hi rustLifetime ctermfg=226 guifg=#ffff00 cterm=NONE
+" Ruby
+hi rubyConstant ctermfg=39 guifg=#00afff cterm=BOLD
+hi rubyDefine ctermfg=197 guifg=#ff005f cterm=BOLD
+hi rubySymbol ctermfg=226 guifg=#ffff00 cterm=UNDERLINE
+hi rubyBlockParameter ctermfg=203 guifg=#00ffff cterm=NONE
+hi rubyKeywordAsMethod ctermfg=202 guifg=#ff5f00 cterm=BOLD
+hi rubyString ctermfg=190 guifg=#d7ff00 cterm=NONE
+hi rubyBoolean ctermfg=10 guifg=#00ff00 cterm=NONE
