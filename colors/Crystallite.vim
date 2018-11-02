@@ -236,3 +236,7 @@ hi rubyBlockParameter ctermfg=203 guifg=#00ffff cterm=NONE
 hi rubyKeywordAsMethod ctermfg=202 guifg=#ff5f00 cterm=BOLD
 hi rubyString ctermfg=190 guifg=#d7ff00 cterm=NONE
 hi rubyBoolean ctermfg=10 guifg=#00ff00 cterm=NONE
+" vimdiff
+hi DiffAdd ctermbg=46 guibg=#00ff00
+hi DiffChange ctermbg=130 guibg=#af5f00
+hi DiffDelete ctermbg=196 guibg=#ff0000
