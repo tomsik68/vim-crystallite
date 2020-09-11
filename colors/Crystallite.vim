@@ -207,7 +207,7 @@ hi vimHiGuiFgBg ctermfg=34 guifg=#00af00 cterm=BOLD
 hi vimHiGui ctermfg=34 guifg=#00af00 cterm=BOLD
 hi vimHiAttrib ctermfg=38 guifg=#00afd7 cterm=BOLD
 hi vimHiNmbr ctermfg=172 guifg=#d78700 cterm=NONE
-hi vimHiGuiRgb ctermfg=226 guifg=#ffff00 cterm=UNDERLINE 
+hi vimHiGuiRgb ctermfg=226 guifg=#ffff00 cterm=UNDERLINE
 " VIM Command
 hi vimCommand ctermfg=27 guifg=#005fff cterm=BOLD
 hi vimOption ctermfg=197 guifg=#ff005f cterm=NONE
@@ -237,6 +237,6 @@ hi rubyKeywordAsMethod ctermfg=202 guifg=#ff5f00 cterm=BOLD
 hi rubyString ctermfg=190 guifg=#d7ff00 cterm=NONE
 hi rubyBoolean ctermfg=10 guifg=#00ff00 cterm=NONE
 " vimdiff
-hi DiffAdd ctermbg=46 guibg=#00ff00
-hi DiffChange ctermbg=130 guibg=#af5f00
-hi DiffDelete ctermbg=196 guibg=#ff0000
+hi DiffAdd ctermbg=28 guibg=#00ff00
+hi DiffChange ctermbg=94 guibg=#af5f00
+hi DiffDelete ctermbg=124 guibg=#ff0000
