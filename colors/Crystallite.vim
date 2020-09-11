@@ -95,7 +95,6 @@ hi Directory guifg=#20b2aa guibg=#000000 guisp=#000000 gui=NONE ctermfg=37 cterm
 hi Structure guifg=#3b9c9c guibg=#000000 guisp=#000000 gui=NONE ctermfg=73 ctermbg=NONE cterm=NONE
 hi Macro guifg=#c12869 guibg=#000000 guisp=#000000 gui=NONE ctermfg=1 ctermbg=NONE cterm=NONE
 "hi Underlined -- no settings --
-hi DiffAdd guifg=#e0ffff guibg=#7e354d guisp=#7e354d gui=NONE ctermfg=195 ctermbg=95 cterm=NONE
 "hi TabLine -- no settings --
 hi cursorim guifg=#000000 guibg=#add8e6 guisp=#add8e6 gui=NONE ctermfg=NONE ctermbg=152 cterm=NONE
 "hi clear -- no settings --
