@@ -216,7 +216,7 @@ hi vimSynType ctermfg=51 guifg=#00ffff cterm=NONE
 hi rustKeyword ctermfg=14 guifg=#00ffff cterm=BOLD
 hi rustExternCrate ctermfg=200 guifg=#ff00d7 cterm=BOLD
 hi rustStorage ctermfg=14 guifg=#00ffff cterm=BOLD
-hi rustModPath ctermfg=37 guifg=#00afaf cterm=UNDERLINE
+hi rustModPath ctermfg=37 guifg=#00afaf cterm=NONE
 hi rustMacro ctermfg=197 guifg=#ff005f cterm=NONE
 hi rustTrait ctermfg=200 guifg=#ff00d7 cterm=NONE
 hi rustModPathSep ctermfg=15 guifg=#ffffff cterm=BOLD
